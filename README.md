@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nour5eldin&show_icons=true&locale=en" alt="nour5eldin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nour5eldin&" alt="nour5eldin" /></p>
+
 
 
 
