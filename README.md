@@ -12,8 +12,8 @@
 
 <p align="left">🌱 I’m currently learning in  Android Mobile Application Development.</p>
 
-- 📬 How to reach me : [https://drive.google.com/file/d/1bS6lxUZ26v2CdGV6cq9FMZ-0GicDO5gr/view?usp=drive_link](https://drive.google.com/file/d/1bS6lxUZ26v2CdGV6cq9FMZ-0GicDO5gr/view?usp=drive_link)
-- - email me **noureldinmahmoud02@gmail.com**
+- 📬 How to reach me : [MyResume](https://drive.google.com/file/d/1bS6lxUZ26v2CdGV6cq9FMZ-0GicDO5gr/view?usp=drive_link)
+- email me **noureldinmahmoud02@gmail.com**
 
 ###
 
