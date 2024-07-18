@@ -54,9 +54,11 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nour5eldin&show_icons=true&locale=en&layout=compact&langs_count=10&exclude_repo=github-readme-stats" alt="nour5eldin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nour5eldin&show_icons=true&locale=en&layout=compact" alt="nour5eldin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nour5eldin&show_icons=true&locale=en" alt="nour5eldin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nour5eldin&" alt="nour5eldin" /></p>
 
 
 
