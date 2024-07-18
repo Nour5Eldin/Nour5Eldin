@@ -61,7 +61,7 @@
 
 ###
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Nour5Eldin/Nour5Eldin/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 
