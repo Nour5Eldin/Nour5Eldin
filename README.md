@@ -2,15 +2,18 @@
 
 ###
 
+<p align="left">About Me: -</p>
+
+###
+
 <p align="left">🔭I am currently graduating after 4 years of study from Thebes Higher Academy of Engineering, majoring in Computer Science</p>
 
 ###
 
 <p align="left">🌱 I’m currently learning in  Android Mobile Application Development.</p>
 
-###
-
-<p align="left">📬 How to reach me noureldinmahmoud02@gmail.com</p>
+- 📬 How to reach me : [https://drive.google.com/file/d/1bS6lxUZ26v2CdGV6cq9FMZ-0GicDO5gr/view?usp=drive_link](https://drive.google.com/file/d/1bS6lxUZ26v2CdGV6cq9FMZ-0GicDO5gr/view?usp=drive_link)
+- - email me **noureldinmahmoud02@gmail.com**
 
 ###
 
@@ -50,12 +53,6 @@
   <a href="https://www.instagram.com/nour65eldin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
