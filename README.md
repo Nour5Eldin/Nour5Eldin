@@ -51,7 +51,7 @@
 
 
 ###
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api?username=Nour5Eldin&theme=dark&show_icons=true">
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour5Eldin&layout=compact&theme=dark&show_icons=true">
 
 
 
