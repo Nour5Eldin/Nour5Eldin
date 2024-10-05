@@ -22,10 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" height="30" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
@@ -51,13 +47,7 @@
 
 ###
 
-<img align="right" height="240" src="https://camo.githubusercontent.com/9372ad7e6bd4f126878d61237ef4c4169439ec34623109da7c7e4a7710d7ccdd/68747470733a2f2f766f78796172642e636f6d2f6173736574732f696d672f636f6e74656e742f636f64696e672e676966"  />
-
-###
-
 ![Nour Eldin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nour5Eldin&hide=contribs,prs)
-
-
 
 
 ###
