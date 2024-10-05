@@ -47,11 +47,11 @@
 
 ###
 
-<img alt= "my stats" src="https://github-readme-stats.vercel.app/api?username=Nour5Eldin&hide=contribs,prs"/>
+<img alt= "my stats" src="https://github-readme-stats.vercel.app/api?username=Nour5Eldin&theme=dark&show_icons=true&hide=contribs,prs"/>
 
 
 ###
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour5Eldin&layout=compact">
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api?username=Nour5Eldin&theme=dark&show_icons=true">
 
 
 
