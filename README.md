@@ -10,15 +10,30 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning in  Android Mobile Application Development.</p>
+<p align="left">🌱 I’m currently learning in  Fronteend React.Js Development.</p>
 
-- 📋How to reach me : [MyResume](https://drive.google.com/file/d/1bS6lxUZ26v2CdGV6cq9FMZ-0GicDO5gr/view?usp=drive_link)
+- 📋How to reach me : [MyResume](https://drive.google.com/file/d/1FDb9WSeiMvCXrTLG7qohQVjSCsbIoJpq/view?usp=drive_link)
 - 📬Email me **noureldinmahmoud02@gmail.com**
 
 ###
 
 <div align="left">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'>
+  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'>
 </div>
 
 ###
