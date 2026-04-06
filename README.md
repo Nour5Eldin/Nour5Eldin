@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Nour Eldin Mahmoud and I am  a passionate Software Engineer from Egypt</h1>
+<h1 align="left">Hi There👋! My name is Nour Eldin Mahmoud and I am  a passionate Software Engineer from Egypt</h1>
 
 ###
 
@@ -6,13 +6,13 @@
 
 ###
 
-<p align="left">🔭I am currently graduating after 4 years of study from Thebes Higher Academy of Engineering, majoring in Computer Science</p>
+<p align="left">🔭I am currently graduating after 4 years of study from Thebes Higher Academy of Engineering, majoring in Computer Science.</p>
 
 ###
 
-<p align="left">🌱 I’m currently learning in  Fronteend React.Js Development.</p>
+<p align="left">🌱 I’m a software engineer specialist in Full stack Development.</p>
 
-- 📋How to reach me : [MyResume](https://drive.google.com/file/d/1kG3KYXGPSfblKqRKxBLm0plXlEuVh264/view?usp=drive_link)
+- 📋How to reach me : [MyResume](https://drive.google.com/file/d/1GkC4G2OM53ha3douwYw9pvrnfnyhknyd/view?usp=drive_link)
 - 📬Email me **noureldinmahmoud02@gmail.com**
 
 ###
@@ -49,13 +49,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nour5Eldin&show_icons=true&bg_color=00000000)
-
-
-###
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour5Eldin&layout=compact&theme=dark&show_icons=true">
 
 
 
