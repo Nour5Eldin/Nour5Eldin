@@ -1,54 +1,39 @@
-<h1 align="left">Hi There👋! My name is Nour Eldin Mahmoud and I am  a passionate Software Engineer from Egypt</h1>
+# Hi there, I'm Nour Eldin! 👋
 
-###
+### 🚀 Full Stack Developer | Computer Science Graduate
 
-<p align="left">About Me:🎖️🏆 -</p>
+I am a detail-oriented **Full Stack Developer** with a solid foundation in Computer Science. I specialize in building scalable web applications using modern technologies like **React**, **Next.js**, and the **MEAN Stack**. I am passionate about clean code, system architecture, and creating seamless user experiences.
 
-###
+---
 
-<p align="left">🔭I am currently graduating after 4 years of study from Thebes Higher Academy of Engineering, majoring in Computer Science.</p>
+### 🎓 Education & Learning
+* **B.Sc. in Computer Science** | Thebes Higher Institute of Computer and Management Sciences.
+* **Front End Development** | Route Academy.
+* **MEAN Stack Web Development** | Digital Egypt Youth (DEY)- Creativa Innovation Hubs at NTI (National Telecommunication Institute).
 
-###
+---
 
-<p align="left">🌱 I’m a software engineer specialist in Full stack Development.</p>
+### 🛠️ Tech Stack
 
-- 📋How to reach me : [MyResume](https://drive.google.com/file/d/1GkC4G2OM53ha3douwYw9pvrnfnyhknyd/view?usp=drive_link)
-- 📬Email me **noureldinmahmoud02@gmail.com**
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3 |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Version Control** | Git, GitHub |
 
-###
+---
 
-<div align="left">
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'>
-  <img width="30" src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'>
-</div>
+### 🔭 Current Focus
+* Building autonomous "Full-Stack Enterprise-Level" applications.
+* Enhancing performance and scalability in web architectures.
+* Open to international opportunities and collaborative tech projects.
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/noureldin-sw/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/nour.haker.9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/nour65eldin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/noureldin-sw)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](noureldinmahmoud02@gmail.com)
 
 
 
