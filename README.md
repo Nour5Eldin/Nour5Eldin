@@ -13,7 +13,7 @@ My focus is on writing code that is **clean**, **easy to maintain**, and able to
 - Build responsive, high-performance web apps.
 - Design scalable frontend & backend architectures.
 - Web Security, Project Management, Optimize performance & SEO.
-- Integrate APIs (Stripe, Auth, CMS).
+- Integrate APIs (Stripe, Auth, FastApi, CMS).
 
 -------------
 
@@ -21,22 +21,22 @@ My focus is on writing code that is **clean**, **easy to maintain**, and able to
 
 #### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind,bootstrap,threejs" />
 </p>
 
 #### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 #### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
 #### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite,npm,webpack,redux,regex" />
 </p>
 
 ---
