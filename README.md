@@ -1,80 +1,20 @@
-# Hi there, I'm Nour Eldin! 👋
+<div align="center">
 
-### 🚀 Software Engineer | Full Stack Developer Specialist
+<h3><code>nour@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
 
-I'm **Nour Eldin Mahmoud**, a **Full Stack Developer** specializing in **React, NextJs, Angular, Node.js, Express and MongoDB**.focused on building robust and maintainable web applications that deliver real business impact.
+<br><br>
 
-💡I have built multiple full-stack applications from scratch, handling both **frontend** and **backend**. 
-My focus is on writing code that is **clean**, **easy to maintain**, and able to scale as the product grows, while making sure it actually solves the real problem for the users and the business.
+<h3><code>nour@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="ASCII portrait" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="About me" /></td>
+  </tr>
+</table>
 
------------
+<br>
 
-### 🧠 What I Do
-- Build responsive, high-performance web apps.
-- Design scalable frontend & backend architectures.
-- Web Security, Project Management, Optimize performance & SEO.
-- Integrate APIs (Stripe, Auth, FastApi, CMS).
+<a href="https://noureldin-mahmoud.vercel.app"><code>noureldin-mahmoud.vercel.app</code></a>
 
--------------
-
-### 🛠️ Tech Stack
-
-#### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,html,css,tailwind,bootstrap,threejs" />
-</p>
-
-#### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-#### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
-
-#### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite,npm,webpack,redux,regex" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-#### 🛒 FreshCart E-Commerce
-- Full e-commerce platform with Stripe payment
-- Built with Next.js + TypeScript
-- Authentication with Clerk & CMS integration
-
-🔗 Live: https://freshcart-llc.vercel.app/  
-🔗 Code: https://github.com/Nour5Eldin/FreshCart.LLC
-
----
-
-#### 🍸 GSAP Cocktail Landing Page
-- Advanced animations using GSAP ScrollTrigger
-- Smooth parallax & modern UI
-
-🔗 Live: https://cocktails-gsap-pi.vercel.app/  
-🔗 Code: https://github.com/Nour5Eldin/Cocktails-GSAP
-
----
-
-#### 🌌 Metaverse Landing Page
-- Modern UI with Framer Motion
-- Optimized performance & animations
-
-🔗 Live: https://metaverse-blue-theta.vercel.app/  
-🔗 Code: https://github.com/Nour5Eldin/metaverse
-
----
-
-### 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/noureldin-sw
-- Email: noureldinmahmoud02@gmail.com
-
-
-
-
+</div>
